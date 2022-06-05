@@ -1,0 +1,287 @@
+
+.container{
+    height: 600px;
+    
+}
+.overview{
+    margin-top: 10px;
+    height: 600px;
+    border-bottom-right-radius: 270px;
+    background-image: linear-gradient(to bottom right, hsl(293, 100%, 63%) ,hsl(264, 100%, 61%));
+}
+
+.mobile{
+    height: 480px;
+    width: 240px;
+    margin-top: 120px;
+    margin-left: 320px;
+    border-radius: 1.7rem;
+    padding: 10px;
+    background-color: hsl(206, 6%, 79%);
+}
+.interior{
+    height: 460px;
+    width: 220px;
+    border-radius: 20px;
+    background-color: hsl(270, 20%, 96%);
+}
+.topbar{
+    height: 65px;
+    width: 220px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-image: linear-gradient(to right, hsl(264, 100%, 61%),  hsl(289, 100%, 72%));
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.box{
+    height: 20px;
+    width: 110px;
+    margin-left: 55px;
+    background-color: hsl(206, 6%, 79%);
+    border-bottom-left-radius: 13px;
+    border-bottom-right-radius: 13px;
+}
+.messenger{
+    margin-top: 13px;
+    margin-left: 10px;
+    height: 37px;
+    width: 140px;
+    background-color: lavender;
+    border-radius: 10px 10px 10px 5px;
+}
+.messenger2{
+    margin-top: 8px;
+    margin-left: 10px;
+    height: 37px;
+    width: 140px;
+    background-color: lavender;
+    border-radius: 10px 10px 10px 5px;
+}
+.first{
+    padding: 5px 5px 3px 7px;
+    color: hsl(276, 55%, 52%);
+    font-family: 'Rubik', sans-serif;
+    font-size: 8.5px;
+    font-weight: 400;
+}
+.second{
+    padding: 5px 5px 3px 7px;
+    color: hsl(276, 55%, 52%);
+    height: 37px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 8.5px;
+    font-weight: 400;
+}
+.photos{
+    
+    margin: 15px 0px 10px 70px;
+    height: 40px;
+    width: 140px;
+}
+.img1{
+    margin-left: 10px;
+    padding: 0px 0px 0px 2px;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+}
+.img2{
+    border-radius: 10px;
+    padding: 0px 0px 0px 2px;
+    height: 40px;
+    width: 40px;
+}
+.img3{
+    border-radius: 10px;
+    padding: 0px 0px 0px 2px;
+    height: 40px;
+    width: 40px;
+}
+.messenger3{
+    margin-top: 10px;
+    margin-left: 70px;
+    height: 37px;
+    width: 140px;
+    background-color: white;
+    border-radius: 10px 10px 5px 10px;
+}
+.third{
+    padding: 5px 5px 3px 7px;
+    color: black;
+    height: 37px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 8.5px;
+    font-weight: 400;
+}
+.messenger4{
+    margin-top: 8px;
+    margin-left: 127px;
+    height: 22px;
+    width: 83px;
+    background-color: white;
+    border-radius: 10px 10px 5px 10px;
+}
+.fourth{
+    padding: 5px 5px 3px 7px;
+    color: black;
+    height: 22px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 8.5px;
+    font-weight: 400;
+}
+.messenger5{
+    margin-top: 12px;
+    margin-left: 10px;
+    height: 45px;
+    width: 140px;
+    background-color: lavender;
+    border-radius: 10px 10px 10px 5px;
+}
+.fifth{
+    padding: 5px 7px 3px 7px;
+    color: hsl(276, 55%, 52%);
+    height: 37px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 8.5px;
+    font-weight: 400;
+}
+.price1{
+    margin-top: 6.5px;
+    margin-left: 10px;
+    height: 25px;
+    width: 160px;
+    background-image: linear-gradient(to left, hsl(264, 100%, 61%),  hsl(293, 100%, 63%));
+    border-radius: 10px 10px 10px 5px;
+}
+.r1{
+    background-image: linear-gradient(to left, hsl(264, 100%, 61%),  hsl(293, 100%, 63%));
+    size: 10px;
+    color: black;
+}
+.uno{
+    padding: 3px 3px 7px 10px;
+    color: white;
+    height: 25px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 8.5px;
+    font-weight: 400;
+}
+.cost{
+    margin-top: 3px;
+    margin-left: 30px;
+    font-size: 12px;
+    padding-top: 1px;
+    font-weight: 700;
+}
+.price2{
+    margin-top: 6.5px;
+    margin-left: 10px;
+    height: 25px;
+    width: 160px;
+    background-image: linear-gradient(to left, hsl(264, 100%, 61%),  hsl(293, 100%, 63%));
+    border-radius: 10px 10px 10px 5px;
+}
+.uno1{
+    padding: 3px 3px 7px 10px;
+    color: white;
+    height: 25px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 8.5px;
+    font-weight: 400;
+}
+.cost1{
+    margin-top: 3px;
+    margin-left: 46px;
+    font-size: 12px;
+    padding-top: 1px;
+    font-weight: 700;
+}
+.message-box{
+    margin-top: 6.5px;
+    margin-left: 10px;
+    height: 25px;
+    width: 200px;
+    padding-bottom: 30px;
+    background-color: white;
+    border-radius: 15px 15px 15px 15px;
+}
+.type{
+    padding: 7px 3px 10px 10px;
+    color: hsl(206, 6%, 79%);
+    height: 25px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 9px;
+    font-weight: 400;
+}
+.box2{
+    height: 60px;
+    width: 220px;
+    margin-bottom: 0px;
+}
+.s{
+    color: white;
+    padding-top: 5px;
+    padding-left: 5px;
+    margin: 5px 5px 10px 5px;
+    height: 30px;
+    width: 15px;
+    align-items: center;
+}
+.avatar{
+    margin-bottom: 3px;
+    margin-left: 0px;
+    margin-top: 2px;
+    height: 25px;
+    border-radius: 300px 300px 300px 300px;
+    border-style: solid;
+    border-color: white;
+    display: inline;
+}
+.fff{
+   margin-top: 0px;
+   height: 150px;
+   width: 200px;
+   display: inline;
+}
+.ggg{
+   margin-top: 0px;
+   margin-left: 5px;
+   color: white;
+   font-family: 'Rubik', sans-serif;
+   height: 100px;
+   width: 200px;
+   display: inline;
+}
+.temp{
+    height: 300px;
+    width: 450px;
+    margin: 200px 10px 0px 220px;
+    
+}
+h2{
+    padding-bottom: 5px;
+    color: hsl(271, 36%, 24%);
+    font-family:  'Rubik', sans-serif;
+}
+.write{
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: hsl(270, 7%, 64%);
+    font-family:  'Rubik', sans-serif;
+}
+.tap{
+    height: 800px;
+}
+.lower{
+    height: 500px;
+    margin-top: 200px;
+    background-color: bisque;
+    border-top-left-radius: 600px;
+}
+.z{
+    margin-left: 100px;
+    height: 40px;
+    color: hsl(271, 36%, 24%);
+}
